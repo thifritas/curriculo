@@ -11,10 +11,27 @@ body {
 	background-color: #52828D;
 }
 
+.fundosobre img {
+	margin-bottom: 50px;
+	border-radius: 200px;
+}
+
 .fundoespec {
 	background-color: #C8EEF3;
 }
 
 .corfundo {
 	background-color: #234B5A;
+}
+
+.cortexto {
+	color: #fff;
+}
+
+.espaco {
+	padding-bottom: 5vh;
+}
+
+.espacotitle {
+	padding-bottom: 2vh;
 }
