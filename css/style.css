@@ -39,3 +39,68 @@ body {
 .social-menu {
 	color: black;
 }
+
+.form-control {
+	border: 0;
+	border-radius: 0;
+	border-bottom: 1px solid #c7c7c7;
+	height: 60px;
+}
+
+.section-title {
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+
+.btn-primary {
+	background: #234B5A;
+	color: #fff;
+	border: 0;
+}
+
+.btn-primary:hover {
+	background: #234B5A;
+}
+
+.text-muted {
+	color: #6c757d 
+}
+
+.text-muted2 {
+	color: #6c757d 
+}
+
+.face:hover {
+	background: #3b5998;
+	text-decoration-color: #fff;
+	color: #fff;
+	border-radius: 0.25rem;
+}
+
+.insta:hover {
+	background: #DD2A7B;
+	text-decoration-color: #fff;
+	color: #fff;
+	border-radius: 0.25rem;
+}
+
+.twitter:hover {
+	background: #00aced;
+	text-decoration-color: #fff;
+	color: #fff;
+	border-radius: 0.25rem;
+}
+
+.git:hover {
+	background: #171515;
+	text-decoration-color: #fff;
+	color: #fff;
+	border-radius: 0.25rem;
+}
+
+.whats:hover {
+	background: #34af23;
+	text-decoration-color: #fff;
+	color: #fff;
+	border-radius: 0.25rem;
+}
